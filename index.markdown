@@ -4,7 +4,7 @@
 
 layout: default
 ---
-I am a London-based composer specializing in film music, classical music, and electronic music. Currently studying at the Guildhall School of Music and Drama, I have composed music for four short films and am experienced in conducting and recording with session orchestras. A recent animation I composed for, If I Raised My Mother, has won the MullenLowe NOVA Award.
+I am a London-based composer specializing in film music, classical music, and electronic music. Currently studying at the Guildhall School of Music and Drama, I have composed music for 15 short films and am experienced in conducting and recording with session orchestras. A recent animation I composed for, *If I Raised My Mother*, has won the MullenLowe NOVA Award.
 
 This is a recording session of a short piece The Little Red Horse.
 
